@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\astro\source\repos\cis22c_project_team2\cis22c_project_team2\operationmanager.h(258): warning C4018: '<': signed/unsigned mismatch
+c:\users\astro\source\repos\cis22c_project_team2\cis22c_project_team2\operationmanager.h(741): warning C4018: '<': signed/unsigned mismatch
+  CIS22C_Project_Team2.vcxproj -> C:\Users\astro\source\repos\CIS22C_Project_Team2\Debug\CIS22C_Project_Team2.exe
